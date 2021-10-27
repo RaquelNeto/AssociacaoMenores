@@ -1,0 +1,266 @@
+0000.001 (0) Opened log file at time: Tue, 06 Oct 2020 10:21:40 +0000 on http://localhost/wpassociation
+0000.046 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.29 WP: 5.5.1 PHP: 7.4.10 (apache2handler, Windows NT LAPTOP-R1KSA02M 10.0 build 18362 (Windows 10) AMD64) MySQL: 10.4.14-MariaDB WPLANG: pt_PT Server: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.10 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 34.7M | 2M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.078 (0) Free space on disk containing Updraft's temporary directory: 895949.5 MB
+0000.121 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.148 (0) Semaphore (fd, wpcrs_options) being initialised
+0000.411 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.768 (0) Set semaphore last lock (fd) time to 2020-10-06 10:21:41
+0000.817 (0) Semaphore lock (fd) complete
+0000.956 (0) Backup run: resumption=0, nonce=69ff9a2dedad, file_nonce=69ff9a2dedad begun at=1601979700 (1s ago), job type=backup
+0001.022 (0) Scheduling a resumption (1) after 300 seconds (1601980001) in case this run gets aborted
+0001.118 (0) Checking if we have a zip executable available
+0001.189 (0) Creation of backups of directories: beginning
+0001.320 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0004.986 (0) Total entities for the zip file: 278 directories, 1648 files (0 skipped as non-modified), 29.6 MB
+0005.056 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0005.543 (0) Zip: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-plugins.zip.tmp: 100 files added (on-disk size: 50.2 KB)
+0005.799 (0) Zip: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-plugins.zip.tmp: 200 files added (on-disk size: 50.2 KB)
+0005.995 (0) Zip: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-plugins.zip.tmp: 300 files added (on-disk size: 50.2 KB)
+0006.248 (0) Zip: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-plugins.zip.tmp: 400 files added (on-disk size: 50.2 KB)
+0006.491 (0) Zip: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-plugins.zip.tmp: 500 files added (on-disk size: 50.2 KB)
+0006.542 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (20.5 MB, 1648 files batched, 501 (502) added so far); re-opening (prior size: 50.2 KB)
+0011.962 (0) Zip: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-plugins.zip.tmp: 600 files added (on-disk size: 5821.4 KB)
+0012.188 (0) Zip: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-plugins.zip.tmp: 700 files added (on-disk size: 5821.4 KB)
+0012.431 (0) Zip: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-plugins.zip.tmp: 800 files added (on-disk size: 5821.4 KB)
+0012.703 (0) Zip: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-plugins.zip.tmp: 900 files added (on-disk size: 5821.4 KB)
+0012.965 (0) Zip: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-plugins.zip.tmp: 1000 files added (on-disk size: 5821.4 KB)
+0013.019 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (2.4 MB, 1648 files batched, 501 (1003) added so far); re-opening (prior size: 5821.4 KB)
+0015.426 (0) Zip: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-plugins.zip.tmp: 1100 files added (on-disk size: 6690.9 KB)
+0015.629 (0) Zip: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-plugins.zip.tmp: 1200 files added (on-disk size: 6690.9 KB)
+0015.875 (0) Zip: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-plugins.zip.tmp: 1300 files added (on-disk size: 6690.9 KB)
+0016.128 (0) Zip: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-plugins.zip.tmp: 1400 files added (on-disk size: 6690.9 KB)
+0016.372 (0) Zip: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-plugins.zip.tmp: 1500 files added (on-disk size: 6690.9 KB)
+0016.484 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (3 MB, 1648 files batched, 501 (1504) added so far); re-opening (prior size: 6690.9 KB)
+0018.869 (0) Zip: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-plugins.zip.tmp: 1600 files added (on-disk size: 7645.6 KB)
+0023.738 (0) Created plugins zip (0) - 9068.4 KB in 22.3 s (407 KB/s) (sha1: 601147508b76618109e5c148237ba1e136cec3c8, sha256: f39bee30578aef32637d93e14919a1fbf08b9aa8a6f87f386ec5a154302b16a5)
+0023.848 (0) Beginning creation of dump of themes (split every: 400 MB)
+0025.342 (0) Total entities for the zip file: 55 directories, 240 files (0 skipped as non-modified), 4 MB
+0025.634 (0) Zip: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0025.840 (0) Zip: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0031.940 (0) Created themes zip (0) - 2227.3 KB in 8 s (277.4 KB/s) (sha1: 718a7b25f009e95b7b5aad2ebe054df7c54f1826, sha256: e1afcb68f880146b25ae2915789faf69f3253b9234bbeb2c303616a3370f6655)
+0032.013 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0032.269 (0) Looking for candidates to backup in: C:\xampp\htdocs\wpassociation/wp-content/uploads
+0032.327 (0) finding files: 2020: adding to list (1)
+0032.382 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0033.191 (0) Total entities for the zip file: 2 directories, 123 files (0 skipped as non-modified), 11.8 MB
+0033.411 (0) Zip: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0038.741 (0) Created uploads zip (0) - 12120.6 KB in 6.3 s (1924.9 KB/s) (sha1: 605b6b8d61050cc71a55b21eb7709ba2a134ce21, sha256: 2b2a77fe4f749104b1d95ec153361ef8459bb5d570585932a60515b3151b8d8d)
+0038.950 (0) Beginning backup of other directories found in the content directory (index: 0)
+0039.013 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0039.102 (0) Looking for candidates to backup in: C:\xampp\htdocs\wpassociation/wp-content
+0039.334 (0) finding files: index.php: adding to list (1)
+0039.413 (0) finding files: languages: adding to list (2)
+0039.659 (0) finding files: plugins: skipping: this is the plugins directory
+0039.736 (0) finding files: themes: skipping: this is the themes directory
+0039.792 (0) finding files: updraft: skipping: this is the updraft directory
+0039.836 (0) finding files: upgrade: skipping: excluded by options
+0039.928 (0) finding files: uploads: skipping: this is the uploads directory
+0040.308 (0) Total entities for the zip file: 3 directories, 70 files (0 skipped as non-modified), 2.7 MB
+0042.282 (0) Created others zip (0) - 783.5 KB in 2.3 s (345.9 KB/s) (sha1: 354026315c30c93d2c0a1d0541383b59652581b8, sha256: 869b54d9e05d7ba72e5857911e84e0ec22c8266a355cc6399c528625746d48ae)
+0042.435 (0) Saving backup status to database (elements: 8)
+0042.513 (0) Beginning creation of database dump (WordPress DB)
+0042.581 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0043.497 (0) Table wpcrs_options: Total expected rows (approximate): 202
+0043.669 (0) Table wpcrs_options: Rows added in this batch (start page: 0; next: finished): 202 in 0.09 seconds
+0043.718 (0) Table wpcrs_options: finishing file (backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-db-table-wpcrs_options.table.gz - 136.4 KB)
+0043.931 (0) Table wpcrs_users: Total expected rows (approximate): 0
+0044.073 (0) Table wpcrs_users: Rows added in this batch (start page: 0; next: finished): 1 in 0.08 seconds
+0044.329 (0) Table wpcrs_users: finishing file (backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-db-table-wpcrs_users.table.gz - 0.6 KB)
+0044.596 (0) Table wpcrs_usermeta: Total expected rows (approximate): 22
+0044.686 (0) Table wpcrs_usermeta: Rows added in this batch (start page: 0; next: finished): 23 in 0.01 seconds
+0044.726 (0) Table wpcrs_usermeta: finishing file (backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-db-table-wpcrs_usermeta.table.gz - 1.1 KB)
+0045.000 (0) Table wpcrs_commentmeta: Total expected rows (approximate): 0
+0045.117 (0) Table wpcrs_commentmeta: Rows added in this batch (start page: 0; next: finished): 0 in 0.05 seconds
+0045.294 (0) Table wpcrs_commentmeta: finishing file (backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-db-table-wpcrs_commentmeta.table.gz - 0.4 KB)
+0045.618 (0) Table wpcrs_comments: Total expected rows (approximate): 0
+0045.714 (0) Table wpcrs_comments: Rows added in this batch (start page: 0; next: finished): 1 in 0.02 seconds
+0045.750 (0) Table wpcrs_comments: finishing file (backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-db-table-wpcrs_comments.table.gz - 0.7 KB)
+0046.106 (0) Table wpcrs_links: Total expected rows (approximate): 0
+0046.787 (0) Table wpcrs_links: Rows added in this batch (start page: 0; next: finished): 0 in 0.08 seconds
+0046.837 (0) Table wpcrs_links: finishing file (backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-db-table-wpcrs_links.table.gz - 0.4 KB)
+0047.102 (0) Table wpcrs_postmeta: Total expected rows (approximate): 176
+0047.180 (0) Table wpcrs_postmeta: Rows added in this batch (start page: 0; next: finished): 179 in 0.04 seconds
+0047.217 (0) Table wpcrs_postmeta: finishing file (backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-db-table-wpcrs_postmeta.table.gz - 5 KB)
+0047.718 (0) Table wpcrs_posts: Total expected rows (approximate): 88
+0047.810 (0) Table wpcrs_posts: Rows added in this batch (start page: 0; next: finished): 90 in 0.05 seconds
+0047.863 (0) Table wpcrs_posts: finishing file (backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-db-table-wpcrs_posts.table.gz - 14.7 KB)
+0048.004 (0) Table wpcrs_term_relationships: Total expected rows (approximate): 15
+0048.057 (0) Table wpcrs_term_relationships: Rows added in this batch (start page: 0; next: finished): 14 in 0.02 seconds
+0048.102 (0) Table wpcrs_term_relationships: finishing file (backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-db-table-wpcrs_term_relationships.table.gz - 0.4 KB)
+0048.349 (0) Table wpcrs_term_taxonomy: Total expected rows (approximate): 4
+0048.406 (0) Table wpcrs_term_taxonomy: Rows added in this batch (start page: 0; next: finished): 4 in 0.02 seconds
+0048.449 (0) Table wpcrs_term_taxonomy: finishing file (backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-db-table-wpcrs_term_taxonomy.table.gz - 0.5 KB)
+0049.004 (0) Table wpcrs_termmeta: Total expected rows (approximate): 0
+0049.056 (0) Table wpcrs_termmeta: Rows added in this batch (start page: 0; next: finished): 0 in 0.02 seconds
+0049.102 (0) Table wpcrs_termmeta: finishing file (backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-db-table-wpcrs_termmeta.table.gz - 0.4 KB)
+0049.313 (0) Table wpcrs_terms: Total expected rows (approximate): 4
+0049.380 (0) Table wpcrs_terms: Rows added in this batch (start page: 0; next: finished): 4 in 0.02 seconds
+0049.427 (0) Table wpcrs_terms: finishing file (backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-db-table-wpcrs_terms.table.gz - 0.5 KB)
+0049.551 (0) backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-db-table-wpcrs_options.table.gz (1/12): adding to final database dump
+0049.716 (0) backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-db-table-wpcrs_users.table.gz (2/12): adding to final database dump
+0050.261 (0) backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-db-table-wpcrs_usermeta.table.gz (3/12): adding to final database dump
+0050.327 (0) backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-db-table-wpcrs_commentmeta.table.gz (4/12): adding to final database dump
+0050.370 (0) backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-db-table-wpcrs_comments.table.gz (5/12): adding to final database dump
+0050.415 (0) backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-db-table-wpcrs_links.table.gz (6/12): adding to final database dump
+0050.459 (0) backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-db-table-wpcrs_postmeta.table.gz (7/12): adding to final database dump
+0050.511 (0) backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-db-table-wpcrs_posts.table.gz (8/12): adding to final database dump
+0050.571 (0) backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-db-table-wpcrs_term_relationships.table.gz (9/12): adding to final database dump
+0050.616 (0) backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-db-table-wpcrs_term_taxonomy.table.gz (10/12): adding to final database dump
+0050.661 (0) backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-db-table-wpcrs_termmeta.table.gz (11/12): adding to final database dump
+0050.720 (0) backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-db-table-wpcrs_terms.table.gz (12/12): adding to final database dump
+0050.958 (0) backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-db.gz: finished writing out complete database file (136 KB)
+0051.871 (0) Total database tables backed up: 12 (backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-db.gz, size: 162316, sha1: 16e4e617606378c8e14ef4b74e6668ed14561dba, sha256: 3138900ab35ba078de4a99aaab8adf1bd778827cd0768a26abf227468930c1a8)
+0052.116 (0) backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0052.160 (0) backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0052.205 (0) backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0052.353 (0) backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-others.zip: others: This file has not yet been successfully uploaded: will queue
+0052.948 (0) backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-db.gz: db: This file has not yet been successfully uploaded: will queue
+0053.147 (0) Saving backup history. Total backup size: 23.8 MB
+0053.303 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0053.503 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0053.681 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-03ed42f20ff71fe54d256a175c0339a9)
+0055.207 (0) Google Drive: creating path: /UpdraftPlus
+0057.091 (0) Google Drive: quota usage: used=444.3 MB, total=15360 MB, available=14915.7 MB
+0057.203 (0) Google Drive: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-plugins.zip: Attempting to upload to Google Drive (into folder id: 16MCVrMPwaP9SiVbh4HdxoinNQaarRjQz)
+0059.849 (0) Googledrive chunked upload: 11.3 % uploaded (1048576)
+0119.962 (0) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\wpassociation\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0120.017 (0) An error condition has occurred for the first time during this job
+0120.519 (0) Google Drive: quota usage: used=444.3 MB, total=15360 MB, available=14915.7 MB
+0120.595 (0) Google Drive: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-themes.zip: Attempting to upload to Google Drive (into folder id: 16MCVrMPwaP9SiVbh4HdxoinNQaarRjQz)
+0123.134 (0) Googledrive chunked upload: 46 % uploaded (1048576)
+0183.232 (0) Google Drive: Upload error: Operation timed out after 59999 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\wpassociation\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0183.779 (0) Google Drive: quota usage: used=444.3 MB, total=15360 MB, available=14915.7 MB
+0183.831 (0) Google Drive: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-uploads.zip: Attempting to upload to Google Drive (into folder id: 16MCVrMPwaP9SiVbh4HdxoinNQaarRjQz)
+0186.510 (0) Googledrive chunked upload: 8.4 % uploaded (1048576)
+0246.663 (0) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\wpassociation\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0247.172 (0) Google Drive: quota usage: used=444.3 MB, total=15360 MB, available=14915.7 MB
+0247.235 (0) Google Drive: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-others.zip: Attempting to upload to Google Drive (into folder id: 16MCVrMPwaP9SiVbh4HdxoinNQaarRjQz)
+0250.458 (0) Googledrive chunked upload: 100 % uploaded
+0250.624 (0) Google Drive: OK: Archive backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-others.zip uploaded in 3.32 seconds
+0250.692 (0) Recording as successfully uploaded: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-others.zip
+0251.290 (0) Deleting local file: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-others.zip: OK
+0251.857 (0) Google Drive: quota usage: used=445 MB, total=15360 MB, available=14915 MB
+0252.024 (0) Google Drive: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-db.gz: Attempting to upload to Google Drive (into folder id: 16MCVrMPwaP9SiVbh4HdxoinNQaarRjQz)
+0253.759 (0) Googledrive chunked upload: 100 % uploaded
+0253.960 (0) Google Drive: OK: Archive backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-db.gz uploaded in 1.89 seconds
+0254.035 (0) Recording as successfully uploaded: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-db.gz
+0254.432 (0) Deleting local file: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-db.gz: OK
+0254.536 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0254.615 (0) Number of backup sets in history: 1; groups (db): 1
+0254.947 (0) Examining (for databases) backup set with group_id=0, nonce=69ff9a2dedad, datestamp=1601979700 (Oct 06 2020 10:21:40)
+0255.001 (0) This backup set is the backup set just made, so will not be deleted.
+0255.001 (0) Number of backup sets in history: 1; groups (files): 1
+0255.069 (0) Examining (for files) backup set with nonce=69ff9a2dedad, datestamp=1601979700 (Oct 06 2020 10:21:40)
+0255.069 (0) This backup set is the backup set just made, so will not be deleted.
+0255.124 (0) This backup set is the backup set just made, so will not be deleted.
+0255.125 (0) This backup set is the backup set just made, so will not be deleted.
+0255.125 (0) This backup set is the backup set just made, so will not be deleted.
+0255.125 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0255.247 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0255.691 (0) Resume backup (69ff9a2dedad, 0): finish run
+0255.968 (0) Decremented the semaphore (fd) by 1
+0256.313 (0) Semaphore (fd) unlocked
+0256.390 (0) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0256.913 (0) Rescheduling resumption 1: moving to 100 seconds from now (1601980057)
+0257.036 (0) No email will/can be sent - the user has not configured an email address.
+0257.091 (0) O backup não foi terminado; foi agendado um recomeço.
+0357.724 (1) Opened log file at time: Tue, 06 Oct 2020 10:27:38 +0000 on http://localhost/wpassociation
+0357.875 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.29 WP: 5.5.1 PHP: 7.4.10 (apache2handler, Windows NT LAPTOP-R1KSA02M 10.0 build 18362 (Windows 10) AMD64) MySQL: 10.4.14-MariaDB WPLANG: pt_PT Server: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.10 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 26.3M | 2M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0357.965 (1) Free space on disk containing Updraft's temporary directory: 895913.4 MB
+0358.267 (1) Backup run: resumption=1, nonce=69ff9a2dedad, file_nonce=69ff9a2dedad begun at=1601979700 (358s ago), job type=backup, previous check-in=253.7s
+0358.443 (1) Scheduling a resumption (2) after 300 seconds (1601980359) in case this run gets aborted
+0359.101 (1) Checking if we have a zip executable available
+0359.187 (1) Creation of backups of directories: already finished
+0359.278 (1) Saving backup status to database (elements: 8)
+0359.542 (1) Database dump (WordPress DB): Creation was completed already
+0359.623 (1) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0359.861 (1) backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0360.023 (1) backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0360.518 (1) backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0360.700 (1) backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-others.zip: others: This file has already been successfully uploaded
+0360.795 (1) backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-db.gz: db: This file has already been successfully uploaded
+0360.887 (1) Saving backup history. Total backup size: Unknown
+0361.100 (1) Requesting upload of the files that have not yet been successfully uploaded (3)
+0361.301 (1) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0361.465 (1) Beginning dispatch of backup to remote (googledrive) (instance identifier s-03ed42f20ff71fe54d256a175c0339a9)
+0363.261 (1) Google Drive: quota usage: used=445.2 MB, total=15360 MB, available=14914.8 MB
+0363.362 (1) Google Drive: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-plugins.zip: Attempting to upload to Google Drive (into folder id: 16MCVrMPwaP9SiVbh4HdxoinNQaarRjQz)
+0363.624 (1) Google Drive: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-plugins.zip: upload already began; attempting to resume from byte 2097151
+0366.140 (1) Googledrive chunked upload: 33.9 % uploaded (3145728)
+0368.270 (1) Googledrive chunked upload: 45.2 % uploaded (4194304)
+0370.396 (1) Googledrive chunked upload: 56.5 % uploaded (5242880)
+0373.102 (1) Googledrive chunked upload: 67.8 % uploaded (6291456)
+0433.290 (1) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\wpassociation\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0433.414 (1) An error condition has occurred for the first time during this job
+0433.904 (1) Google Drive: quota usage: used=445.2 MB, total=15360 MB, available=14914.8 MB
+0434.103 (1) Google Drive: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-themes.zip: Attempting to upload to Google Drive (into folder id: 16MCVrMPwaP9SiVbh4HdxoinNQaarRjQz)
+0434.819 (1) Google Drive: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-themes.zip: upload already began; attempting to resume from byte 1835007
+0437.589 (1) Googledrive chunked upload: 100 % uploaded (1835008)
+0438.411 (1) Google Drive: OK: Archive backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-themes.zip uploaded in 3.82 seconds
+0438.766 (1) Recording as successfully uploaded: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-themes.zip
+0439.629 (1) Deleting local file: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-themes.zip: OK
+0440.369 (1) Google Drive: quota usage: used=447.4 MB, total=15360 MB, available=14912.6 MB
+0440.663 (1) Google Drive: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-uploads.zip: Attempting to upload to Google Drive (into folder id: 16MCVrMPwaP9SiVbh4HdxoinNQaarRjQz)
+0441.044 (1) Google Drive: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-uploads.zip: upload already began; attempting to resume from byte 1835007
+0501.474 (1) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\wpassociation\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0501.584 (1) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0501.641 (1) Number of backup sets in history: 1; groups (db): 1
+0501.680 (1) Examining (for databases) backup set with group_id=0, nonce=69ff9a2dedad, datestamp=1601979700 (Oct 06 2020 10:21:40)
+0501.736 (1) This backup set is the backup set just made, so will not be deleted.
+0501.736 (1) Number of backup sets in history: 1; groups (files): 1
+0502.001 (1) Examining (for files) backup set with nonce=69ff9a2dedad, datestamp=1601979700 (Oct 06 2020 10:21:40)
+0502.002 (1) This backup set is the backup set just made, so will not be deleted.
+0502.046 (1) This backup set is the backup set just made, so will not be deleted.
+0502.047 (1) This backup set is the backup set just made, so will not be deleted.
+0502.047 (1) This backup set is the backup set just made, so will not be deleted.
+0502.047 (1) This backup set remains non-empty (f=1/d=1); will retain in history
+0502.090 (1) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0502.168 (1) Resume backup (69ff9a2dedad, 1): finish run
+0502.268 (1) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0502.380 (1) No email will/can be sent - the user has not configured an email address.
+0502.446 (1) O backup não foi terminado; foi agendado um recomeço.
+0659.341 (2) Opened log file at time: Tue, 06 Oct 2020 10:32:40 +0000 on http://localhost/wpassociation
+0659.388 (2) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.16.29 WP: 5.5.1 PHP: 7.4.10 (apache2handler, Windows NT LAPTOP-R1KSA02M 10.0 build 18362 (Windows 10) AMD64) MySQL: 10.4.14-MariaDB WPLANG: pt_PT Server: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.4.10 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 26.3M | 2M) multisite: N openssl: OpenSSL 1.1.1g  21 Apr 2020 mcrypt: N LANG:  ZipArchive::addFile: Y
+0659.454 (2) Free space on disk containing Updraft's temporary directory: 895066.9 MB
+0659.605 (2) Backup run: resumption=2, nonce=69ff9a2dedad, file_nonce=69ff9a2dedad begun at=1601979700 (660s ago), job type=backup, previous check-in=79.7s
+0660.009 (2) Scheduling a resumption (3) after 300 seconds (1601980660) in case this run gets aborted
+0660.183 (2) Checking if we have a zip executable available
+0660.253 (2) Creation of backups of directories: already finished
+0660.448 (2) Saving backup status to database (elements: 8)
+0660.654 (2) Database dump (WordPress DB): Creation was completed already
+0660.732 (2) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0660.885 (2) backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0661.010 (2) backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-themes.zip: themes: This file has already been successfully uploaded
+0661.573 (2) backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0661.620 (2) backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-others.zip: others: This file has already been successfully uploaded
+0661.676 (2) backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-db.gz: db: This file has already been successfully uploaded
+0661.742 (2) Saving backup history. Total backup size: Unknown
+0661.888 (2) Requesting upload of the files that have not yet been successfully uploaded (2)
+0662.032 (2) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0662.128 (2) Beginning dispatch of backup to remote (googledrive) (instance identifier s-03ed42f20ff71fe54d256a175c0339a9)
+0663.648 (2) Google Drive: quota usage: used=447.4 MB, total=15360 MB, available=14912.6 MB
+0663.877 (2) Google Drive: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-plugins.zip: Attempting to upload to Google Drive (into folder id: 16MCVrMPwaP9SiVbh4HdxoinNQaarRjQz)
+0664.610 (2) Google Drive: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-plugins.zip: upload already began; attempting to resume from byte 7077887
+0667.788 (2) Googledrive chunked upload: 87.5 % uploaded (8126464)
+0727.995 (2) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\wpassociation\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0728.035 (2) An error condition has occurred for the first time during this job
+0728.541 (2) Google Drive: quota usage: used=447.4 MB, total=15360 MB, available=14912.6 MB
+0728.579 (2) Google Drive: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-uploads.zip: Attempting to upload to Google Drive (into folder id: 16MCVrMPwaP9SiVbh4HdxoinNQaarRjQz)
+0728.877 (2) Google Drive: backup_2020-10-06-1021_Association_Theme_69ff9a2dedad-uploads.zip: upload already began; attempting to resume from byte 2621439
+0788.946 (2) Google Drive: Upload error: Operation timed out after 60000 milliseconds with 0 bytes received (line: 117, file: C:\xampp\htdocs\wpassociation\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0789.131 (2) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0789.183 (2) Number of backup sets in history: 1; groups (db): 1
+0789.277 (2) Examining (for databases) backup set with group_id=0, nonce=69ff9a2dedad, datestamp=1601979700 (Oct 06 2020 10:21:40)
+0789.327 (2) This backup set is the backup set just made, so will not be deleted.
+0789.327 (2) Number of backup sets in history: 1; groups (files): 1
+0789.416 (2) Examining (for files) backup set with nonce=69ff9a2dedad, datestamp=1601979700 (Oct 06 2020 10:21:40)
+0789.416 (2) This backup set is the backup set just made, so will not be deleted.
+0789.512 (2) This backup set is the backup set just made, so will not be deleted.
+0789.512 (2) This backup set is the backup set just made, so will not be deleted.
+0789.512 (2) This backup set is the backup set just made, so will not be deleted.
+0789.513 (2) This backup set remains non-empty (f=1/d=1); will retain in history
+0789.905 (2) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0790.049 (2) Resume backup (69ff9a2dedad, 2): finish run
+0790.116 (2) There were errors in the uploads, so the 'resume' event is remaining scheduled
+0790.272 (2) No email will/can be sent - the user has not configured an email address.
+0790.312 (2) O backup não foi terminado; foi agendado um recomeço.
